@@ -2,15 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[MapUre Studio]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-10-28T18:04:47+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://mapure.github.io/atom.xml" rel="self"/>
+  <link href="http://mapure.github.io/"/>
+  <updated>2013-10-28T18:35:15+08:00</updated>
+  <id>http://mapure.github.io/</id>
   <author>
     <name><![CDATA[Izzy Leung]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Introduction to MapUre Studio]]></title>
+    <link href="http://mapure.github.io/blog/2013/10/28/introduction-to-mapure-studio/"/>
+    <updated>2013-10-28T18:21:00+08:00</updated>
+    <id>http://mapure.github.io/blog/2013/10/28/introduction-to-mapure-studio</id>
+    <content type="html"><![CDATA[<p>MapUre, make your map pure! This is MapUre&rsquo;s home page, welcome here!</p>
+
+<h2>Members</h2>
+
+<p>MapUre Studio now have 2 members, they are:</p>
+
+<ul>
+<li>Izzy Leung(Chinese: 梁宵)</li>
+<li>Freya Liu(Chinese: 刘凡)</li>
+</ul>
+
+
+<p>2 students from Wuhan University, majoring in Geographic Information Science. We are crazy about Android Design and Computer Science.</p>
+
+<h2>Product</h2>
+
+<p>Not so much have been made so far, currently avaliable and soon will be avaliable products are:</p>
+
+<ul>
+<li>Woolen Onigiri: Reader for <a href="http://miao.ziqiang.net">MaoXian Community</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
 </feed>
