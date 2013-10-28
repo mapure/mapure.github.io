@@ -4,7 +4,7 @@
   <title><![CDATA[MapUre Studio]]></title>
   <link href="http://mapure.github.io/atom.xml" rel="self"/>
   <link href="http://mapure.github.io/"/>
-  <updated>2013-10-28T18:35:15+08:00</updated>
+  <updated>2013-10-28T18:47:51+08:00</updated>
   <id>http://mapure.github.io/</id>
   <author>
     <name><![CDATA[Izzy Leung]]></name>
@@ -38,8 +38,11 @@
 
 <ul>
 <li>Woolen Onigiri: Reader for <a href="http://miao.ziqiang.net">MaoXian Community</a></li>
+<li>MapUre AMap Contest Special Edition: Made for AMap Wuhan University 120 anniversary Contest</li>
 </ul>
 
+
+<p> They can be found on Google Play Store.</p>
 ]]></content>
   </entry>
   
