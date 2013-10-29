@@ -4,7 +4,7 @@
   <title><![CDATA[MapUre Studio]]></title>
   <link href="http://mapure.github.io/atom.xml" rel="self"/>
   <link href="http://mapure.github.io/"/>
-  <updated>2013-10-28T19:25:39+08:00</updated>
+  <updated>2013-10-29T19:20:17+08:00</updated>
   <id>http://mapure.github.io/</id>
   <author>
     <name><![CDATA[Izzy Leung]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Slideshow for AMap WHU Contest]]></title>
+    <link href="http://mapure.github.io/blog/2013/10/29/amap-contest-slideshow/"/>
+    <updated>2013-10-29T19:11:00+08:00</updated>
+    <id>http://mapure.github.io/blog/2013/10/29/amap-contest-slideshow</id>
+    <content type="html"><![CDATA[<script async class="speakerdeck-embed" data-id="0e9df2e022b80131050b7a403c2ac0d8" data-ratio="1.33333333333333" src="http://mapure.github.io//speakerdeck.com/assets/embed.js"></script>
+
+
+<p>In this presentation, we explain our purpose and thoughts on such product. We think that this kind of Map should be easy but beautiful, simple but useful. And that&rsquo;s where the PURE comes from, we want to make it much more than just a map, but a piece of art.</p>
+
+<p>Though we&rsquo;ve got nothing in the end, but I&rsquo;m sure this presentation is still of great value. Hope you like this, and can get a little inspiration from it.</p>
+
+<blockquote><p>MapUre, make your map pure!</p></blockquote>
+
+<p>This is our goal, and we&rsquo;ll fight for it!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Introduction to MapUre Studio]]></title>
